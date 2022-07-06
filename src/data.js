@@ -1984,6 +1984,7 @@ const movies = [
     genre: ['Comedy', 'Drama', 'Fantasy', 'Sci-Fi'],
     score: 8.2
   },
+  
   {
     title: 'Dog Day Afternoon',
     year: 1975,
